@@ -5,7 +5,7 @@ si su respuesta es o no correcta. En caso que la respuesta sea incorrecta se deb
 al usuario ingresar su respuesta nuevamente. Para realizar este ejercicio investigue como
 utilizar la función Math.random() de Java.
  */
-package Extras;
+package Guia6.Extras;
 import java.util.Scanner;
 /**
  *
